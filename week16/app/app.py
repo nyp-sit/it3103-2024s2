@@ -16,7 +16,7 @@ import numpy as np
 
 # Configure our application 
 #
-model_dir = 'activity_model'
+model_dir = 'activity_model.keras'
 
 # Initialize our Flask app.
 # NOTE: Flask is used to host our app on a web server, so that
